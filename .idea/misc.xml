@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (coding_challenges)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (coding_challenges)" project-jdk-type="Python SDK" />
+=======
+    <option name="sdkName" value="Python 3.12 (hackerRankChallenges)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (hackerRankChallenges)" project-jdk-type="Python SDK" />
+>>>>>>> 3b588f1 (test)
 </project>
