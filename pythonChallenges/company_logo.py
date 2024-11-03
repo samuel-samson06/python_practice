@@ -1,5 +1,4 @@
 from collections import Counter
-
 s = input()
 company_name_list = []
 for i in s:
